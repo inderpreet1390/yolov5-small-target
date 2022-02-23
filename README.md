@@ -10,3 +10,7 @@ pngtojpg converts png files to jpg in a folder
 Repository also contains two jupyter notebooks:
   DataExplorationClasswise: This notebook contains all classwise pixel area size analysis of objects in both DOTA and VisDrone dataset
   DataExploration: this notebook calculates average pixel area of all the objects of all classes in both DOTA and VisDrone dataset
+
+
+The trained weights can be downloaded from gdrive below:
+[Yolov5x 40 epochs DOTA](https://drive.google.com/file/d/19O4kdomab0MzXtWNo3vgL9yRRhNM0WZA/view?usp=sharing)
