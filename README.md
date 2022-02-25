@@ -19,4 +19,4 @@ The trained weights can be downloaded from gdrive below:
 
 [Yolov5x 40 epochs VisDrone](https://drive.google.com/file/d/1TNMuFtoHuU6lv84FVaI1tTSGGKu0Lea3/view?usp=sharing)
 
-[Yolov5 improved 40 epochs VisDrone]https://drive.google.com/file/d/1KUQLH9mtCcBxoENZHclcMAss8sy5FV4V/view?usp=sharing)
+[Yolov5 improved 40 epochs VisDrone](https://drive.google.com/file/d/1KUQLH9mtCcBxoENZHclcMAss8sy5FV4V/view?usp=sharing)
