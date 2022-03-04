@@ -17,9 +17,8 @@ The trained weights can be downloaded from gdrive below:
 
 [Yolov5x 40 epochs DOTA](https://drive.google.com/file/d/19O4kdomab0MzXtWNo3vgL9yRRhNM0WZA/view?usp=sharing)
 
-[Yolov5x 40 epochs VisDrone](https://drive.google.com/file/d/1TNMuFtoHuU6lv84FVaI1tTSGGKu0Lea3/view?usp=sharing)
+[Yolov5x 40 epochs VisDrone](https://drive.google.com/file/d/1R0JlQBuK7x4Ttp87IHvofR1yI0KN6ojU/view?usp=sharing)
 
 [Yolov5 improved 40 epochs VisDrone](https://drive.google.com/file/d/1KUQLH9mtCcBxoENZHclcMAss8sy5FV4V/view?usp=sharing)
 
-
-[Yolov5 improved 40 epochs DOTA]
+[Yolov5 improved 40 epochs DOTA](https://drive.google.com/file/d/1_hU4ib7kfwvDZrCC0d35WtORBVkpXDJv/view?usp=sharing)
