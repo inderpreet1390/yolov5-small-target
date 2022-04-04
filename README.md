@@ -25,3 +25,4 @@ The trained weights can be downloaded from gdrive below:
 
 
 These trained weights can be used with Yolov5 official github repository [here](https://github.com/ultralytics/yolov5) to reproduce the results, the custom model file is also provided as yolov5-small-target.yaml that can be used in their models folder
+
