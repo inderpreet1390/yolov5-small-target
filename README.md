@@ -24,5 +24,6 @@ The trained weights can be downloaded from gdrive below:
 [Yolov5 improved 40 epochs DOTA](https://drive.google.com/file/d/1_hU4ib7kfwvDZrCC0d35WtORBVkpXDJv/view?usp=sharing)
 
 
-These trained weights can be used with Yolov5 official github repository [here](https://github.com/ultralytics/yolov5) to reproduce the results, the custom model file is also provided as yolov5-small-target.yaml that can be used in their models folder
+These trained weights can be used with Yolov5 official github repository [here](https://github.com/ultralytics/yolov5) to reproduce the results, the custom model file is also provided as yolov5-small-target.yaml that can be used in the official yolov5 models folder
+Alternatively, the version of repository used in this work can be downloaded from [here](https://drive.google.com/file/d/1Y8V_v-5OG7tUNG-Q-AeyNugbHkAsdu9N/view?usp=sharing)
 
