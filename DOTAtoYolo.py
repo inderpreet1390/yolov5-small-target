@@ -16,17 +16,8 @@ for filename in glob.glob(os.path.join(path, '*.txt')):
             words.insert(3,str(((float(words[5])-float(words[3]))/1024))) #height
             words.insert(4,str(((float(words[9])-float(words[7]))/1024))) #width
             
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            words.pop()
-            
+            words=words[:5]
+         
             words.append("\n")
             line2=[]
             line2=" ".join(words)
